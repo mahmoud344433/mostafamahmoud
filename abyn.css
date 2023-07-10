@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
-    <title>mostafa Mahmoud</title>
-    <meta charset="auther" ="mahhmoud el sheikh">
-</head>
-
-<body>
-    <style>
-        * {
+* {
     padding: 0;
     margin: 0;
     font-family: sans-serif;
@@ -105,25 +93,3 @@ nav {
 body::after {
     clip-path: circle(50% at bottom);
 }
-    </style>
-    <div class="container">
-        <nav>
-            <a class "logo" herf="#">Mostafa mahmoud</a>
-            <ul>
-                <li><a herf="https://www.facebook.com/profile.php?id=100072208674518&mibextid=ZbWKwL" target="_blank" target="_blank">Facebook</a></li>
-                <li><a herf="https://wa.me/+201033647068" target="_blank">What's App</a></li>
-                <li><a herf="www.threads.net/@mostafa7068mahmoud" target="_blank">threads</a></li>
-                <li><a herf="https://instagram.com/mostafa7068mahmoud?igshid=MzNlNGNkZWQ4Mg==" target="_blank">instagram</a></li>
-                <li><a herf="https://twitter.com/Mostafa63962855?t=mhoAjR-dp37scsD1dGTAXw&s=09" target="_blank">twitter</a></li>
-            </ul>
-        </nav>
-        <div class="content">
-            <div class="text">
-                <h2>mostafa mahmoud</h2>
-                
-            </div>
-        </div>
-    </div>
-</body>
-
-</html>
