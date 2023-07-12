@@ -92,4 +92,4 @@ nav {
 
 body::after {
     clip-path: circle(50% at bottom);
-}
+    }
